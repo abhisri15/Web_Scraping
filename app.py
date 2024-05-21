@@ -74,7 +74,7 @@ def index():
                 reviews.append(mydict)
             logging.info("log my final result {}".format(reviews))
 
-            uri = "mongodb+srv://abhikalpsri:mQimfrkSdvMREtXT@cluster0.sl7cbew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            uri = "mongodb+srv://<username>:<password>@cluster0.sl7cbew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
             client = pymongo.MongoClient(uri)
             db=client['review_scrap']
             review_col=db['review_scrap_data']
