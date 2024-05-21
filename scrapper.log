@@ -1,0 +1,63 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 852-994-493
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:30] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome photography experience. Battery backup is good . Display is much better than 14 version.'}, {'Product': 'iphone15', 'Name': 'Ajin V', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'High quality camera\U0001f60d'}, {'Product': 'iphone15', 'Name': 'Talim (sk)', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I love this phone. The camera is amazing: its I am so happy'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving It'}, {'Product': 'iphone15', 'Name': 'mohit  yadav ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Nice \u2764\ufe0f'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'No doubt this smartphone an art.'}, {'Product': 'iphone15', 'Name': 'Sheetla Prasad Maurya', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Best mobile phoneCamera quality is very nice Battery backup is very good Sound quality is amazing.'}, {'Product': 'iphone15', 'Name': 'Mousam  Guha Roy', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Very nice'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phone'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phone'}]
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:17:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 852-994-493
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:19:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:19:07] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:19:07] "GET /static/main.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome photography experience. Battery backup is good . Display is much better than 14 version.'}, {'Product': 'iphone15', 'Name': 'Ajin V', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'High quality camera\U0001f60d'}, {'Product': 'iphone15', 'Name': 'Talim (sk)', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I love this phone. The camera is amazing: its I am so happy'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving It'}, {'Product': 'iphone15', 'Name': 'mohit  yadav ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Nice \u2764\ufe0f'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'No doubt this smartphone an art.'}, {'Product': 'iphone15', 'Name': 'Sheetla Prasad Maurya', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Best mobile phoneCamera quality is very nice Battery backup is very good Sound quality is amazing.'}, {'Product': 'iphone15', 'Name': 'Mousam  Guha Roy', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Very nice'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phone'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phone'}]
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:19:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:19:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:19:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 852-994-493
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:51:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:51:02] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:51:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'Kriti Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just loved the product , colour , design is wow and camera is amazing , just clicked first picture of my grandmother \U0001f475\U0001f3fb  in portrait mode and results r here in front of you guys \U0001f60d\U0001f618'}, {'Product': 'iphone15', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome photography experience. Battery backup is good . Display is much better than 14 version.'}, {'Product': 'iphone15', 'Name': 'Ajin V', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'High quality camera\U0001f60d'}, {'Product': 'iphone15', 'Name': 'Talim (sk)', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I love this phone. The camera is amazing: its I am so happy'}, {'Product': 'iphone15', 'Name': 'Prithivi Boruah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera Quality Is Improved Loving It'}, {'Product': 'iphone15', 'Name': 'mohit  yadav ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Nice \u2764\ufe0f'}, {'Product': 'iphone15', 'Name': 'Nikhil Kumar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'No doubt this smartphone an art.'}, {'Product': 'iphone15', 'Name': 'Sheetla Prasad Maurya', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Best mobile phoneCamera quality is very nice Battery backup is very good Sound quality is amazing.'}, {'Product': 'iphone15', 'Name': 'Mousam  Guha Roy', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Very nice'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phone'}, {'Product': 'iphone15', 'Name': 'AYUSH singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'best camera and battery is also very good In love with dynamic Island Type-c charging is very fast. Overall best phone'}]
+INFO:pymongo.serverSelection:{"message": "Waiting for suitable server to become available", "selector": "<function writable_server_selector at 0x00000247706CA660>", "operation": "insert", "operationId": 627414033, "topologyDescription": "<TopologyDescription id: 664cc9f29d5b8cf701be33ce, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-psvbdtc-shard-00-00.sl7cbew.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-psvbdtc-shard-00-01.sl7cbew.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-psvbdtc-shard-00-02.sl7cbew.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "664cc9f29d5b8cf701be33ce"}, "remainingTimeMS": 30}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:51:07] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:51:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 21:51:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
